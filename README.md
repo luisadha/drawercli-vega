@@ -4,5 +4,5 @@
 
 * aapt
 * termux-api
-* List My Apps (de.onyx
+* List My Apps by (de.onyxbits.listmyapps)
 * fzf
